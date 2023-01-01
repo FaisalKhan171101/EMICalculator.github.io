@@ -7,3 +7,5 @@ It has Clear UI and Totally responsive Input and output Table with Logics Given 
 <img src="https://user-images.githubusercontent.com/87291732/210176508-48f3ff3a-1c6c-445a-928c-e5b2c6d0b2fd.png" width="350" title="hover text">
 
 ### Demo: https://faisalkhan171101.github.io/EMICalculator.github.io/
+
+© 2022 Faisal Khan, Presidency University
